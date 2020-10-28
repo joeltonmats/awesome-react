@@ -81,24 +81,6 @@ A collection of awesome things regarding the React ecosystem.
 
 > JavaScript Library for building User Interfaces
 
-#### React General Resources
-
-- [React Official Website](https://reactjs.org/)
-- [React Documentation](https://reactjs.org/docs)
-- [React GitHub](https://github.com/facebook/react)
-
-#### React Community
-
-- [Reactiflux Discord Channel](http://www.reactiflux.com/)
-- [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
-- [React Twitter](https://twitter.com/reactjs)
-
-#### React Online Playgrounds
-
-- [CodePen](https://reactjs.org/redirect-to-codepen/hello-world)
-- [CodeSandbox](https://codesandbox.io/s/new)
-- [JSFiddle](https://jsfiddle.net/boilerplate/react-jsx)
-
 #### React Tutorials
 
 ##### React General Tutorials
@@ -157,34 +139,33 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Development Tools
 
-- [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
+- ✅ [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Isomorphic Web app boilerplate
 - [react-devtools](https://github.com/facebook/react-devtools) - Inspection of React component hierarchy in the Chrome and Firefox Developer Tools
 - [react-hot-loader](https://github.com/gaearon/react-hot-loader) - Tweak React components in real time
 - [react-loadable](https://github.com/jamiebuilds/react-loadable) - A higher order component for loading components with promises
 - [loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy
 - [reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
-- [storybook](https://github.com/storybookjs/storybook) - UI component dev & test
+- ✅ [storybook](https://github.com/storybookjs/storybook) - UI component dev & test
 - [docz](https://github.com/doczjs/docz) - Zero Config, live-reloading documentation with Markdown + JSX
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
-- [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
-- [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements
+- ✅ [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
+- ✅ [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements
 - [react-axe](https://github.com/dequelabs/react-axe) - Accessibility auditing for React applications
 - [codesandbox](https://codesandbox.io/s/new) - An online IDE for rapid React development with integrated React DevTools.
 - [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page
-- [Why Did You Render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders.
+- ✅ [Why Did You Render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders.
 
 ##### React Frameworks
 
 - [next.js](https://github.com/vercel/next.js) - The React Framework
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
 - [react-admin](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
-- [remix](https://remix.run/) - Finally, a killer React framework from the creators of React Router
 
 ##### React Styling
 
-- [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
+- ✅ [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
 - [emotion](https://github.com/emotion-js/emotion) - Library designed for writing CSS styles with JavaScript
 - [radium](https://github.com/FormidableLabs/radium) - A toolchain for React component styling
 - [jss](https://github.com/cssinjs/jss) - Authoring tool for CSS
@@ -193,7 +174,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Routing
 
-- [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
+- ✅ [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
 - [navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
 - [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
 - [reach](https://github.com/reach/router) - Next Generation Routing for React
